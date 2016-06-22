@@ -1,0 +1,18 @@
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\MessagePassing.Form1.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\MessagePassing.Form2.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\MessagePassing.Properties.Resources.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\MessagePassing.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\bin\Release\MessagePassing.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\bin\Release\MessagePassing.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\MessagePassing.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\MessagePassing\MessagePassing\obj\Release\MessagePassing.pdb
+J:\Programme\C#\MessagePassing\MessagePassing\bin\Release\MessagePassing.exe
+J:\Programme\C#\MessagePassing\MessagePassing\bin\Release\MessagePassing.pdb
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\ResolveAssemblyReference.cache
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\MessagePassing.Form1.resources
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\MessagePassing.Form2.resources
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\MessagePassing.Properties.Resources.resources
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\MessagePassing.csproj.GenerateResource.Cache
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\MessagePassing.exe
+J:\Programme\C#\MessagePassing\MessagePassing\obj\Release\MessagePassing.pdb

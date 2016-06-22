@@ -1,0 +1,18 @@
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\obj\Debug\Article_2.Form1.resources
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\obj\Debug\Article_2.Properties.Resources.resources
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\obj\Debug\Article 2.csproj.GenerateResource.Cache
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\bin\Debug\Article 2.exe
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\bin\Debug\Article 2.pdb
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\obj\Debug\Article 2.exe
+C:\Users\Tamer\Documents\Visual Studio 2008\Projects\Article 2\Article 2\obj\Debug\Article 2.pdb
+J:\New Folder\Article 2\Article 2\obj\Debug\Article 2.exe
+J:\New Folder\Article 2\Article 2\obj\Debug\Article 2.pdb
+J:\Programme\C#\Coordinate\Article 2\obj\Debug\Article 2.pdb
+J:\Programme\C#\Coordinate\Article 2\bin\Debug\Article 2.exe
+J:\Programme\C#\Coordinate\Article 2\bin\Debug\Article 2.pdb
+J:\Programme\C#\Coordinate\Article 2\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Coordinate\Article 2\obj\Debug\Article_2.Form1.resources
+J:\Programme\C#\Coordinate\Article 2\obj\Debug\Article_2.Properties.Resources.resources
+J:\Programme\C#\Coordinate\Article 2\obj\Debug\Article 2.csproj.GenerateResource.Cache
+J:\Programme\C#\Coordinate\Article 2\obj\Debug\Article 2.exe

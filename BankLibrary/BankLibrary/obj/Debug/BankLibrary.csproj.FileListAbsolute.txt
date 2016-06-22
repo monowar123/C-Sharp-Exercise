@@ -1,0 +1,7 @@
+J:\Programme\C#\BankLibrary\BankLibrary\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll
+J:\Programme\C#\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
+J:\Programme\C#\BankLibrary\BankLibrary\obj\Debug\BankLibrary.dll
+J:\Programme\C#\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb
+J:\Programme\C#\BankLibrary\BankLibrary\obj\Debug\BankLibrary.BankUIForm.resources
+J:\Programme\C#\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.GenerateResource.Cache

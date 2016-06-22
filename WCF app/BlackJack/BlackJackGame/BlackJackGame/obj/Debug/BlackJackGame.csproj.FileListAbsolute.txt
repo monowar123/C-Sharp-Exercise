@@ -1,0 +1,12 @@
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\Monowar\Desktop\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Form1.resources
+J:\Programme\C#\WCF app\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+J:\Programme\C#\WCF app\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+J:\Programme\C#\WCF app\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb

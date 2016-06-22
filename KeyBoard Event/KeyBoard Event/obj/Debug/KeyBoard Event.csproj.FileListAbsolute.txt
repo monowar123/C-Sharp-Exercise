@@ -1,0 +1,8 @@
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\bin\Debug\KeyBoard Event.exe
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\bin\Debug\KeyBoard Event.pdb
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\obj\Debug\KeyBoard_Event.Form1.resources
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\obj\Debug\KeyBoard_Event.Properties.Resources.resources
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\obj\Debug\KeyBoard Event.csproj.GenerateResource.Cache
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\obj\Debug\KeyBoard Event.exe
+J:\Programme\C#\KeyBoard Event\KeyBoard Event\obj\Debug\KeyBoard Event.pdb

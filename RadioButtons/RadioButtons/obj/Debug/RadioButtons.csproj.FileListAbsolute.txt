@@ -1,0 +1,7 @@
+J:\Programme\C#\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+J:\Programme\C#\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+J:\Programme\C#\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Form1.resources
+J:\Programme\C#\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Properties.Resources.resources
+J:\Programme\C#\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.GenerateResource.Cache
+J:\Programme\C#\RadioButtons\RadioButtons\obj\Debug\RadioButtons.exe
+J:\Programme\C#\RadioButtons\RadioButtons\obj\Debug\RadioButtons.pdb

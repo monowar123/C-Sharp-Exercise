@@ -1,0 +1,8 @@
+J:\Programme\C#\UserDefinedException\UserDefinedException\bin\Debug\UserDefinedException.exe
+J:\Programme\C#\UserDefinedException\UserDefinedException\bin\Debug\UserDefinedException.pdb
+J:\Programme\C#\UserDefinedException\UserDefinedException\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\UserDefinedException\UserDefinedException\obj\Debug\UserDefinedException.squareRootForm.resources
+J:\Programme\C#\UserDefinedException\UserDefinedException\obj\Debug\UserDefinedException.Properties.Resources.resources
+J:\Programme\C#\UserDefinedException\UserDefinedException\obj\Debug\UserDefinedException.csproj.GenerateResource.Cache
+J:\Programme\C#\UserDefinedException\UserDefinedException\obj\Debug\UserDefinedException.exe
+J:\Programme\C#\UserDefinedException\UserDefinedException\obj\Debug\UserDefinedException.pdb

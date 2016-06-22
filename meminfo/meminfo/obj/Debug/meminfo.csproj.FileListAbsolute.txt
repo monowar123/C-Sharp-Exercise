@@ -1,0 +1,20 @@
+E:\ce09005\visualc#Lab\meminfo\meminfo\obj\Debug\ResolveAssemblyReference.cache
+E:\ce09005\visualc#Lab\meminfo\meminfo\obj\Debug\meminfo.Form1.resources
+E:\ce09005\visualc#Lab\meminfo\meminfo\obj\Debug\meminfo.Properties.Resources.resources
+E:\ce09005\visualc#Lab\meminfo\meminfo\obj\Debug\meminfo.csproj.GenerateResource.Cache
+E:\ce09005\visualc#Lab\meminfo\meminfo\bin\Debug\meminfo.exe
+E:\ce09005\visualc#Lab\meminfo\meminfo\bin\Debug\meminfo.pdb
+E:\ce09005\visualc#Lab\meminfo\meminfo\obj\Debug\meminfo.exe
+E:\ce09005\visualc#Lab\meminfo\meminfo\obj\Debug\meminfo.pdb
+F:\education\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.exe
+F:\education\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.pdb
+J:\Academic\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.pdb
+J:\Academic\3-2\peri\meminfo\meminfo\bin\Debug\meminfo.exe
+J:\Academic\3-2\peri\meminfo\meminfo\bin\Debug\meminfo.pdb
+J:\Academic\3-2\peri\meminfo\meminfo\obj\Debug\ResolveAssemblyReference.cache
+J:\Academic\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.Form1.resources
+J:\Academic\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.Properties.Resources.resources
+J:\Academic\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.csproj.GenerateResource.Cache
+J:\Academic\3-2\peri\meminfo\meminfo\obj\Debug\meminfo.exe
+J:\Academic\3-2 document\Peri\meminfo\meminfo\obj\Debug\meminfo.exe
+J:\Academic\3-2 document\Peri\meminfo\meminfo\obj\Debug\meminfo.pdb

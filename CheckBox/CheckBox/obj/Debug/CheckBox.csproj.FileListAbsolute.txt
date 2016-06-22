@@ -1,0 +1,8 @@
+J:\Programme\C#\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+J:\Programme\C#\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+J:\Programme\C#\CheckBox\CheckBox\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\CheckBox\CheckBox\obj\Debug\CheckBox.Form1.resources
+J:\Programme\C#\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+J:\Programme\C#\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.Cache
+J:\Programme\C#\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+J:\Programme\C#\CheckBox\CheckBox\obj\Debug\CheckBox.pdb

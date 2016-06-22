@@ -1,0 +1,7 @@
+C:\Documents and Settings\Monowar\My Documents\Visual Studio 2008\Projects\practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Monowar\My Documents\Visual Studio 2008\Projects\practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Monowar\My Documents\Visual Studio 2008\Projects\practice\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\My Documents\Visual Studio 2008\Projects\practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Monowar\My Documents\Visual Studio 2008\Projects\practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+I:\Programme\C#\practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\Programme\C#\practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

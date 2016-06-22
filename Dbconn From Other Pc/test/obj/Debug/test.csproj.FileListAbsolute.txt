@@ -1,0 +1,16 @@
+C:\Users\Monowar\Desktop\test\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.Form1.resources
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\test\test\bin\Debug\test.exe
+C:\Users\Monowar\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.exe
+C:\Users\Monowar\Desktop\test\test\obj\Debug\test.pdb
+J:\Programme\C#\Dbconn From Other Pc\test\obj\Debug\test.exe
+J:\Programme\C#\Dbconn From Other Pc\test\obj\Debug\test.pdb
+J:\Programme\C#\Dbconn From Other Pc\test\bin\Debug\test.exe
+J:\Programme\C#\Dbconn From Other Pc\test\bin\Debug\test.pdb
+J:\Programme\C#\Dbconn From Other Pc\test\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Dbconn From Other Pc\test\obj\Debug\test.Form1.resources
+J:\Programme\C#\Dbconn From Other Pc\test\obj\Debug\test.Properties.Resources.resources
+J:\Programme\C#\Dbconn From Other Pc\test\obj\Debug\test.csproj.GenerateResource.Cache

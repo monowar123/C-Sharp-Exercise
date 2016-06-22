@@ -1,0 +1,8 @@
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\bin\Debug\Data Sets Exercise.exe
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\bin\Debug\Data Sets Exercise.pdb
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\obj\Debug\Data_Sets_Exercise.Form1.resources
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\obj\Debug\Data_Sets_Exercise.Properties.Resources.resources
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\obj\Debug\Data Sets Exercise.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\obj\Debug\Data Sets Exercise.exe
+C:\Users\Monowar\Desktop\Data Sets Exercise\Data Sets Exercise\obj\Debug\Data Sets Exercise.pdb

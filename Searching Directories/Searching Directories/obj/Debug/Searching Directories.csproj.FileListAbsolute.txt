@@ -1,0 +1,8 @@
+J:\Programme\C#\Searching Directories\Searching Directories\bin\Debug\Searching Directories.exe
+J:\Programme\C#\Searching Directories\Searching Directories\bin\Debug\Searching Directories.pdb
+J:\Programme\C#\Searching Directories\Searching Directories\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Searching Directories\Searching Directories\obj\Debug\Searching_Directories.Form1.resources
+J:\Programme\C#\Searching Directories\Searching Directories\obj\Debug\Searching_Directories.Properties.Resources.resources
+J:\Programme\C#\Searching Directories\Searching Directories\obj\Debug\Searching Directories.csproj.GenerateResource.Cache
+J:\Programme\C#\Searching Directories\Searching Directories\obj\Debug\Searching Directories.exe
+J:\Programme\C#\Searching Directories\Searching Directories\obj\Debug\Searching Directories.pdb

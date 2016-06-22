@@ -1,0 +1,8 @@
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\bin\Debug\ComboBoxTest.exe
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\bin\Debug\ComboBoxTest.pdb
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.Form1.resources
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.Properties.Resources.resources
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.csproj.GenerateResource.Cache
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.exe
+J:\Programme\C#\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.pdb

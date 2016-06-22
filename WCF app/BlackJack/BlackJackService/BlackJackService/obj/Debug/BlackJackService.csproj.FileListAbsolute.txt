@@ -1,0 +1,10 @@
+C:\Users\Monowar\Desktop\BlackJackService\BlackJackService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\BlackJackService\BlackJackService\bin\BlackJackService.dll
+C:\Users\Monowar\Desktop\BlackJackService\BlackJackService\bin\BlackJackService.pdb
+C:\Users\Monowar\Desktop\BlackJackService\BlackJackService\obj\Debug\BlackJackService.dll
+C:\Users\Monowar\Desktop\BlackJackService\BlackJackService\obj\Debug\BlackJackService.pdb
+J:\Programme\C#\WCF app\BlackJackService\BlackJackService\bin\BlackJackService.dll
+J:\Programme\C#\WCF app\BlackJackService\BlackJackService\bin\BlackJackService.pdb
+J:\Programme\C#\WCF app\BlackJackService\BlackJackService\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\WCF app\BlackJackService\BlackJackService\obj\Debug\BlackJackService.dll
+J:\Programme\C#\WCF app\BlackJackService\BlackJackService\obj\Debug\BlackJackService.pdb

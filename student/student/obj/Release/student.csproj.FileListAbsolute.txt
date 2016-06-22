@@ -1,0 +1,10 @@
+I:\Programme\C#\student\student\bin\Release\student.exe
+I:\Programme\C#\student\student\bin\Release\student.pdb
+I:\Programme\C#\student\student\obj\Release\ResolveAssemblyReference.cache
+I:\Programme\C#\student\student\obj\Release\student.Form1.resources
+I:\Programme\C#\student\student\obj\Release\student.Properties.Resources.resources
+I:\Programme\C#\student\student\obj\Release\student.csproj.GenerateResource.Cache
+I:\Programme\C#\student\student\obj\Release\student.exe
+I:\Programme\C#\student\student\obj\Release\student.pdb
+J:\Programme\C#\student\student\obj\Release\student.exe
+J:\Programme\C#\student\student\obj\Release\student.pdb

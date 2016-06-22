@@ -1,0 +1,6 @@
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\OutParameter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\bin\Release\OutParameter.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\bin\Release\OutParameter.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\obj\Release\OutParameter.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\obj\Release\OutParameter.pdb

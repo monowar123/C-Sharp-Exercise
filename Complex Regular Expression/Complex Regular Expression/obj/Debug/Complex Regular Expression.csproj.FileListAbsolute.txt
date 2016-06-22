@@ -1,0 +1,5 @@
+J:\Programme\C#\Complex Regular Expression\Complex Regular Expression\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Complex Regular Expression\Complex Regular Expression\bin\Debug\Complex Regular Expression.exe
+J:\Programme\C#\Complex Regular Expression\Complex Regular Expression\bin\Debug\Complex Regular Expression.pdb
+J:\Programme\C#\Complex Regular Expression\Complex Regular Expression\obj\Debug\Complex Regular Expression.exe
+J:\Programme\C#\Complex Regular Expression\Complex Regular Expression\obj\Debug\Complex Regular Expression.pdb

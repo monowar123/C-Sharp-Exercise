@@ -1,0 +1,18 @@
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\bin\Debug\practice.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\bin\Debug\practice.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Debug\practice.Form1.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Debug\practice.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Debug\practice.pdb
+J:\Programme\C#\practice\practice\obj\Debug\practice.exe
+J:\Programme\C#\practice\practice\obj\Debug\practice.pdb
+J:\Programme\C#\practice\practice\bin\Debug\practice.exe
+J:\Programme\C#\practice\practice\bin\Debug\practice.pdb
+J:\Programme\C#\practice\practice\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\practice\practice\obj\Debug\practice.Form1.resources
+J:\Programme\C#\practice\practice\obj\Debug\practice.Properties.Resources.resources
+J:\Programme\C#\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+J:\Programme\C#\practice\practice\bin\Debug\BankLibrary.dll
+J:\Programme\C#\practice\practice\bin\Debug\BankLibrary.pdb

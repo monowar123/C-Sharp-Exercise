@@ -1,0 +1,10 @@
+J:\Programme\Socket & API\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe
+J:\Programme\Socket & API\ServerProgram\ServerProgram\bin\Debug\ServerProgram.pdb
+J:\Programme\Socket & API\ServerProgram\ServerProgram\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Socket & API\ServerProgram\ServerProgram\obj\Debug\ServerProgram.exe
+J:\Programme\Socket & API\ServerProgram\ServerProgram\obj\Debug\ServerProgram.pdb
+J:\Programme\C#\Socket & API\ServerProgram\ServerProgram\obj\Debug\ServerProgram.pdb
+J:\Programme\C#\Socket & API\ServerProgram\ServerProgram\bin\Debug\ServerProgram.exe
+J:\Programme\C#\Socket & API\ServerProgram\ServerProgram\bin\Debug\ServerProgram.pdb
+J:\Programme\C#\Socket & API\ServerProgram\ServerProgram\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Socket & API\ServerProgram\ServerProgram\obj\Debug\ServerProgram.exe

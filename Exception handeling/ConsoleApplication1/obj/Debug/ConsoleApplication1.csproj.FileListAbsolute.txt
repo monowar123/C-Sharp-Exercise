@@ -1,0 +1,10 @@
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\Programme\C#\Exception handeling\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\Programme\C#\Exception handeling\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\Programme\C#\Exception handeling\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\Programme\C#\Exception handeling\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Exception handeling\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe

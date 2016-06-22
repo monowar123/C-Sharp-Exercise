@@ -1,0 +1,5 @@
+J:\Programme\C#\Lambda Expressions\Lambda Expressions\bin\Debug\Lambda Expressions.exe
+J:\Programme\C#\Lambda Expressions\Lambda Expressions\bin\Debug\Lambda Expressions.pdb
+J:\Programme\C#\Lambda Expressions\Lambda Expressions\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.exe
+J:\Programme\C#\Lambda Expressions\Lambda Expressions\obj\Debug\Lambda Expressions.pdb

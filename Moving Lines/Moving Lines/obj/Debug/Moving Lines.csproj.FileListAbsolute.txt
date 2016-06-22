@@ -1,0 +1,8 @@
+J:\Programme\C#\Moving Lines\Moving Lines\bin\Debug\Moving Lines.exe
+J:\Programme\C#\Moving Lines\Moving Lines\bin\Debug\Moving Lines.pdb
+J:\Programme\C#\Moving Lines\Moving Lines\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Moving Lines\Moving Lines\obj\Debug\Moving_Lines.Form1.resources
+J:\Programme\C#\Moving Lines\Moving Lines\obj\Debug\Moving_Lines.Properties.Resources.resources
+J:\Programme\C#\Moving Lines\Moving Lines\obj\Debug\Moving Lines.csproj.GenerateResource.Cache
+J:\Programme\C#\Moving Lines\Moving Lines\obj\Debug\Moving Lines.exe
+J:\Programme\C#\Moving Lines\Moving Lines\obj\Debug\Moving Lines.pdb

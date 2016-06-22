@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e2df85d7-6a13-4d4b-8ad6-632a4a63b792" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1053/WelcomeSOAPService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WelcomeSOAPService.wsdl" MetadataType="Wsdl" ID="6d119535-9914-475b-9870-4a48b52495f1" SourceId="1" SourceUrl="http://localhost:1053/WelcomeSOAPService.svc?wsdl" />
+    <MetadataFile FileName="WelcomeSOAPService.xsd" MetadataType="Schema" ID="1c2de9e7-71e5-4f02-9201-6be3ed606fdd" SourceId="1" SourceUrl="http://localhost:1053/WelcomeSOAPService.svc?xsd=xsd0" />
+    <MetadataFile FileName="WelcomeSOAPService1.xsd" MetadataType="Schema" ID="286b2699-694d-4b8b-951c-7363a470fd6c" SourceId="1" SourceUrl="http://localhost:1053/WelcomeSOAPService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,8 @@
+J:\Programme\C#\Progress Clock\Progress Clock\bin\Debug\Progress Clock.exe
+J:\Programme\C#\Progress Clock\Progress Clock\bin\Debug\Progress Clock.pdb
+J:\Programme\C#\Progress Clock\Progress Clock\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Progress Clock\Progress Clock\obj\Debug\Progress_Clock.Form1.resources
+J:\Programme\C#\Progress Clock\Progress Clock\obj\Debug\Progress_Clock.Properties.Resources.resources
+J:\Programme\C#\Progress Clock\Progress Clock\obj\Debug\Progress Clock.csproj.GenerateResource.Cache
+J:\Programme\C#\Progress Clock\Progress Clock\obj\Debug\Progress Clock.exe
+J:\Programme\C#\Progress Clock\Progress Clock\obj\Debug\Progress Clock.pdb

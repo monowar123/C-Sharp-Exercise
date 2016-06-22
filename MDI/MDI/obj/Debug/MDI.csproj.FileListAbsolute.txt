@@ -1,0 +1,9 @@
+D:\Sams teachyourself\MDI\MDI\bin\Debug\MDI.exe
+D:\Sams teachyourself\MDI\MDI\bin\Debug\MDI.pdb
+D:\Sams teachyourself\MDI\MDI\obj\Debug\ResolveAssemblyReference.cache
+D:\Sams teachyourself\MDI\MDI\obj\Debug\MDI.Form1.resources
+D:\Sams teachyourself\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+D:\Sams teachyourself\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.Cache
+D:\Sams teachyourself\MDI\MDI\obj\Debug\MDI.exe
+D:\Sams teachyourself\MDI\MDI\obj\Debug\MDI.pdb
+D:\Sams teachyourself\MDI\MDI\obj\Debug\MDI.Child1Form.resources

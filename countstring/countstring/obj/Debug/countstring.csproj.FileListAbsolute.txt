@@ -1,0 +1,26 @@
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\bin\Debug\countstring.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\bin\Debug\countstring.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\obj\Debug\countstring.Form1.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\obj\Debug\countstring.Properties.Resources.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\obj\Debug\countstring.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\obj\Debug\countstring.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\countstring\countstring\obj\Debug\countstring.pdb
+I:\Programme\C#\countstring\countstring\obj\Debug\countstring.exe
+I:\Programme\C#\countstring\countstring\obj\Debug\countstring.pdb
+I:\Programme\C#\countstring\countstring\bin\Debug\countstring.exe
+I:\Programme\C#\countstring\countstring\bin\Debug\countstring.pdb
+I:\Programme\C#\countstring\countstring\obj\Debug\ResolveAssemblyReference.cache
+I:\Programme\C#\countstring\countstring\obj\Debug\countstring.Form1.resources
+I:\Programme\C#\countstring\countstring\obj\Debug\countstring.Properties.Resources.resources
+I:\Programme\C#\countstring\countstring\obj\Debug\countstring.csproj.GenerateResource.Cache
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.exe
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.pdb
+J:\Programme\C#\countstring\countstring\bin\Debug\countstring.exe
+J:\Programme\C#\countstring\countstring\bin\Debug\countstring.pdb
+J:\Programme\C#\countstring\countstring\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.Form1.resources
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.Properties.Resources.resources
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.csproj.GenerateResource.Cache
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.Form.resources
+J:\Programme\C#\countstring\countstring\obj\Debug\countstring.gggg.resources

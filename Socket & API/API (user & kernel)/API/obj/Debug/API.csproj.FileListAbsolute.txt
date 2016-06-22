@@ -1,0 +1,32 @@
+J:\Programme\C#\API\API\bin\Debug\API.exe
+J:\Programme\C#\API\API\bin\Debug\API.pdb
+J:\Programme\C#\API\API\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\API\API\obj\Debug\API.Form1.resources
+J:\Programme\C#\API\API\obj\Debug\API.Properties.Resources.resources
+J:\Programme\C#\API\API\obj\Debug\API.csproj.GenerateResource.Cache
+J:\Programme\C#\API\API\obj\Debug\API.exe
+J:\Programme\C#\API\API\obj\Debug\API.pdb
+J:\Programme\C#\API (user & kernel)\API\obj\Debug\API.exe
+J:\Programme\C#\API (user & kernel)\API\obj\Debug\API.pdb
+J:\Programme\C#\API (user & kernel)\API\bin\Debug\API.exe
+J:\Programme\C#\API (user & kernel)\API\bin\Debug\API.pdb
+J:\Programme\C#\API (user & kernel)\API\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\API (user & kernel)\API\obj\Debug\API.Form1.resources
+J:\Programme\C#\API (user & kernel)\API\obj\Debug\API.Properties.Resources.resources
+J:\Programme\C#\API (user & kernel)\API\obj\Debug\API.csproj.GenerateResource.Cache
+J:\Programme\Socket & API\API (user & kernel)\API\obj\Debug\API.exe
+J:\Programme\Socket & API\API (user & kernel)\API\obj\Debug\API.pdb
+J:\Programme\Socket & API\API (user & kernel)\API\bin\Debug\API.exe
+J:\Programme\Socket & API\API (user & kernel)\API\bin\Debug\API.pdb
+J:\Programme\Socket & API\API (user & kernel)\API\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Socket & API\API (user & kernel)\API\obj\Debug\API.Form1.resources
+J:\Programme\Socket & API\API (user & kernel)\API\obj\Debug\API.Properties.Resources.resources
+J:\Programme\Socket & API\API (user & kernel)\API\obj\Debug\API.csproj.GenerateResource.Cache
+J:\Programme\C#\Socket & API\API (user & kernel)\API\obj\Debug\API.pdb
+J:\Programme\C#\Socket & API\API (user & kernel)\API\bin\Debug\API.exe
+J:\Programme\C#\Socket & API\API (user & kernel)\API\bin\Debug\API.pdb
+J:\Programme\C#\Socket & API\API (user & kernel)\API\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Socket & API\API (user & kernel)\API\obj\Debug\API.Form1.resources
+J:\Programme\C#\Socket & API\API (user & kernel)\API\obj\Debug\API.Properties.Resources.resources
+J:\Programme\C#\Socket & API\API (user & kernel)\API\obj\Debug\API.csproj.GenerateResource.Cache
+J:\Programme\C#\Socket & API\API (user & kernel)\API\obj\Debug\API.exe

@@ -1,0 +1,8 @@
+I:\Programme\C#\parmutation and combination\parmutation and combination\bin\Release\parmutation and combination.exe
+I:\Programme\C#\parmutation and combination\parmutation and combination\bin\Release\parmutation and combination.pdb
+I:\Programme\C#\parmutation and combination\parmutation and combination\obj\Release\ResolveAssemblyReference.cache
+I:\Programme\C#\parmutation and combination\parmutation and combination\obj\Release\parmutation_and_combination.Form1.resources
+I:\Programme\C#\parmutation and combination\parmutation and combination\obj\Release\parmutation_and_combination.Properties.Resources.resources
+I:\Programme\C#\parmutation and combination\parmutation and combination\obj\Release\parmutation and combination.csproj.GenerateResource.Cache
+I:\Programme\C#\parmutation and combination\parmutation and combination\obj\Release\parmutation and combination.exe
+I:\Programme\C#\parmutation and combination\parmutation and combination\obj\Release\parmutation and combination.pdb

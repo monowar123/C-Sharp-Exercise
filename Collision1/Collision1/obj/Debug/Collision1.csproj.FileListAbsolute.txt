@@ -1,0 +1,8 @@
+J:\Programme\C#\Collision1\Collision1\bin\Debug\Collision1.exe
+J:\Programme\C#\Collision1\Collision1\bin\Debug\Collision1.pdb
+J:\Programme\C#\Collision1\Collision1\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Collision1\Collision1\obj\Debug\Collision1.Properties.Resources.resources
+J:\Programme\C#\Collision1\Collision1\obj\Debug\Collision1.csproj.GenerateResource.Cache
+J:\Programme\C#\Collision1\Collision1\obj\Debug\Collision1.exe
+J:\Programme\C#\Collision1\Collision1\obj\Debug\Collision1.pdb
+J:\Programme\C#\Collision1\Collision1\obj\Debug\Collision1.Form1.resources

@@ -1,0 +1,24 @@
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\bin\Debug\TextBoxTest.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\bin\Debug\TextBoxTest.pdb
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Debug\TextBoxTest.Properties.Resources.resources
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Debug\TextBoxTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Debug\TextBoxTest.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Debug\TextBoxTest.pdb
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Debug\TextBoxTest.Form1.resources
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.exe
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.pdb
+I:\Programme\C#\TextBoxTest\TextBoxTest\bin\Debug\TextBoxTest.exe
+I:\Programme\C#\TextBoxTest\TextBoxTest\bin\Debug\TextBoxTest.pdb
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\ResolveAssemblyReference.cache
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.Form1.resources
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.Properties.Resources.resources
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.csproj.GenerateResource.Cache
+J:\Programme\C#\TextBoxTest\TextBoxTest\bin\Debug\TextBoxTest.exe
+J:\Programme\C#\TextBoxTest\TextBoxTest\bin\Debug\TextBoxTest.pdb
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.Form1.resources
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.Properties.Resources.resources
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.csproj.GenerateResource.Cache
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.exe
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Debug\TextBoxTest.pdb

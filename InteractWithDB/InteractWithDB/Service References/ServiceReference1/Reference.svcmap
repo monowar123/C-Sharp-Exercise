@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3a864b7d-c7e0-45a7-81bb-1a77bfdb4fd4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49159/gateWayService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="gateWayService.xsd" MetadataType="Schema" ID="3717052b-a851-498b-9bf9-7170192cd3d9" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd0" />
+    <MetadataFile FileName="gateWayService.wsdl" MetadataType="Wsdl" ID="4821c3ed-4ead-4425-808e-2d82d4f4c261" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?wsdl" />
+    <MetadataFile FileName="gateWayService1.xsd" MetadataType="Schema" ID="f1d969dd-72ab-4b20-878d-f764e7e1cd43" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd2" />
+    <MetadataFile FileName="gateWayService2.xsd" MetadataType="Schema" ID="807d74d5-9df1-4293-a499-bb0147e89d75" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd1" />
+    <MetadataFile FileName="gateWayService3.xsd" MetadataType="Schema" ID="dd50c1a6-f660-4ee2-a9cf-16491717e6c0" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd4" />
+    <MetadataFile FileName="gateWayService4.xsd" MetadataType="Schema" ID="6ee99f9f-749c-4d4a-a9df-57eb134f2f02" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd3" />
+    <MetadataFile FileName="gateWayService5.xsd" MetadataType="Schema" ID="089a97bc-78b3-4229-a794-3fe2c92d77e4" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd6" />
+    <MetadataFile FileName="gateWayService6.xsd" MetadataType="Schema" ID="4c721823-f858-442f-83de-cf3d07a75168" SourceId="1" SourceUrl="http://localhost:49159/gateWayService.svc?xsd=xsd5" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

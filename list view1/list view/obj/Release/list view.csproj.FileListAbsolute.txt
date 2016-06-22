@@ -1,0 +1,16 @@
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\bin\Release\list view.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\bin\Release\list view.pdb
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\obj\Release\list_view.Form1.resources
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\obj\Release\list_view.Properties.Resources.resources
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\obj\Release\list view.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\obj\Release\list view.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\list view\obj\Release\list view.pdb
+J:\Programme\C#\list view\list view\bin\Release\list view.exe
+J:\Programme\C#\list view\list view\bin\Release\list view.pdb
+J:\Programme\C#\list view\list view\obj\Release\ResolveAssemblyReference.cache
+J:\Programme\C#\list view\list view\obj\Release\list_view.Form1.resources
+J:\Programme\C#\list view\list view\obj\Release\list_view.Properties.Resources.resources
+J:\Programme\C#\list view\list view\obj\Release\list view.csproj.GenerateResource.Cache
+J:\Programme\C#\list view\list view\obj\Release\list view.exe
+J:\Programme\C#\list view\list view\obj\Release\list view.pdb

@@ -1,0 +1,5 @@
+J:\Programme\Socket & API\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+J:\Programme\Socket & API\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+J:\Programme\Socket & API\UDPClient\UDPClient\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Socket & API\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+J:\Programme\Socket & API\UDPClient\UDPClient\obj\Debug\UDPClient.pdb

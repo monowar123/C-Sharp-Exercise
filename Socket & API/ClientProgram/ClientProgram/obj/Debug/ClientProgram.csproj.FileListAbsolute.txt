@@ -1,0 +1,10 @@
+J:\Programme\Socket & API\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe
+J:\Programme\Socket & API\ClientProgram\ClientProgram\bin\Debug\ClientProgram.pdb
+J:\Programme\Socket & API\ClientProgram\ClientProgram\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Socket & API\ClientProgram\ClientProgram\obj\Debug\ClientProgram.exe
+J:\Programme\Socket & API\ClientProgram\ClientProgram\obj\Debug\ClientProgram.pdb
+J:\Programme\C#\Socket & API\ClientProgram\ClientProgram\obj\Debug\ClientProgram.pdb
+J:\Programme\C#\Socket & API\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe
+J:\Programme\C#\Socket & API\ClientProgram\ClientProgram\bin\Debug\ClientProgram.pdb
+J:\Programme\C#\Socket & API\ClientProgram\ClientProgram\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Socket & API\ClientProgram\ClientProgram\obj\Debug\ClientProgram.exe

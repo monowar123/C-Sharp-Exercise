@@ -1,0 +1,15 @@
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\Delegates\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\Programme\C#\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\Programme\C#\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\Programme\C#\Delegates\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe

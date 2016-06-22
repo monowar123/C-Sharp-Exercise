@@ -1,0 +1,5 @@
+J:\Programme\C#\Exception1\Exception1\bin\Debug\Exception1.exe
+J:\Programme\C#\Exception1\Exception1\bin\Debug\Exception1.pdb
+J:\Programme\C#\Exception1\Exception1\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Exception1\Exception1\obj\Debug\Exception1.exe
+J:\Programme\C#\Exception1\Exception1\obj\Debug\Exception1.pdb

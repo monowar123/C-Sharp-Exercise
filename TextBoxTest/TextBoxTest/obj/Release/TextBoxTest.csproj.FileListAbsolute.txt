@@ -1,0 +1,18 @@
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Release\TextBoxTest.Form1.resources
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Release\TextBoxTest.Properties.Resources.resources
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Release\TextBoxTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\bin\Release\TextBoxTest.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\bin\Release\TextBoxTest.pdb
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Release\TextBoxTest.exe
+C:\Documents and Settings\monowar\Local Settings\Application Data\Temporary Projects\TextBoxTest\obj\Release\TextBoxTest.pdb
+I:\Programme\C#\TextBoxTest\TextBoxTest\bin\Release\TextBoxTest.exe
+I:\Programme\C#\TextBoxTest\TextBoxTest\bin\Release\TextBoxTest.pdb
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\ResolveAssemblyReference.cache
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.Form1.resources
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.Properties.Resources.resources
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.csproj.GenerateResource.Cache
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.exe
+I:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.pdb
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.exe
+J:\Programme\C#\TextBoxTest\TextBoxTest\obj\Release\TextBoxTest.pdb

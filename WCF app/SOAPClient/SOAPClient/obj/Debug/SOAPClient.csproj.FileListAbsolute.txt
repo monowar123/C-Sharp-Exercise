@@ -1,0 +1,27 @@
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\bin\Debug\SOAPClient.exe.config
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\obj\Debug\SOAPClient.Form1.resources
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\obj\Debug\SOAPClient.Properties.Resources.resources
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\obj\Debug\SOAPClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\bin\Debug\SOAPClient.exe
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\bin\Debug\SOAPClient.pdb
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\obj\Debug\SOAPClient.exe
+C:\Documents and Settings\Monowar\Desktop\SOAPClient\SOAPClient\obj\Debug\SOAPClient.pdb
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\bin\Debug\SOAPClient.exe.config
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.exe
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.pdb
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\bin\Debug\SOAPClient.exe
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\bin\Debug\SOAPClient.pdb
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.Form1.resources
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.Properties.Resources.resources
+J:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.csproj.GenerateResource.Cache
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\bin\Debug\SOAPClient.exe.config
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.exe
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.pdb
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\bin\Debug\SOAPClient.exe
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\bin\Debug\SOAPClient.pdb
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.csprojResolveAssemblyReference.cache
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.Form1.resources
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.Properties.Resources.resources
+F:\Programme\C#\WCF app\SOAPClient\SOAPClient\obj\Debug\SOAPClient.csproj.GenerateResource.Cache

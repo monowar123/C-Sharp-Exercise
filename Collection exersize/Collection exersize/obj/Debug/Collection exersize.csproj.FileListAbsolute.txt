@@ -1,0 +1,8 @@
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\obj\Debug\Collection_exersize.Form1.resources
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\obj\Debug\Collection_exersize.Properties.Resources.resources
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\obj\Debug\Collection exersize.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\bin\Debug\Collection exersize.exe
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\bin\Debug\Collection exersize.pdb
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\obj\Debug\Collection exersize.exe
+C:\Users\Monowar\Desktop\Collection exersize\Collection exersize\obj\Debug\Collection exersize.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="581334d6-62e6-4017-a711-6e8be2b6a405" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49204/BlackJack.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BlackJack.xsd" MetadataType="Schema" ID="b69e3ba3-3874-43af-a87b-4a6ff101e7ef" SourceId="1" SourceUrl="http://localhost:49204/BlackJack.svc?xsd=xsd1" />
+    <MetadataFile FileName="BlackJack1.xsd" MetadataType="Schema" ID="0e4aa05b-ac0f-441a-95e8-f33f89c09c91" SourceId="1" SourceUrl="http://localhost:49204/BlackJack.svc?xsd=xsd0" />
+    <MetadataFile FileName="BlackJack.wsdl" MetadataType="Wsdl" ID="572f06f4-6df2-4798-ab80-a71bb6518a1e" SourceId="1" SourceUrl="http://localhost:49204/BlackJack.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

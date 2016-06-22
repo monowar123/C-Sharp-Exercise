@@ -1,0 +1,11 @@
+C:\Documents and Settings\Monowar\Desktop\SOAPService\SOAPService\bin\SOAPService.dll
+C:\Documents and Settings\Monowar\Desktop\SOAPService\SOAPService\bin\SOAPService.pdb
+C:\Documents and Settings\Monowar\Desktop\SOAPService\SOAPService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\Desktop\SOAPService\SOAPService\obj\Debug\SOAPService.dll
+C:\Documents and Settings\Monowar\Desktop\SOAPService\SOAPService\obj\Debug\SOAPService.pdb
+F:\Programme\C#\WCF app\SOAPService\SOAPService\bin\SOAPService.dll.config
+F:\Programme\C#\WCF app\SOAPService\SOAPService\bin\SOAPService.dll
+F:\Programme\C#\WCF app\SOAPService\SOAPService\bin\SOAPService.pdb
+F:\Programme\C#\WCF app\SOAPService\SOAPService\obj\Debug\SOAPService.csprojResolveAssemblyReference.cache
+F:\Programme\C#\WCF app\SOAPService\SOAPService\obj\Debug\SOAPService.dll
+F:\Programme\C#\WCF app\SOAPService\SOAPService\obj\Debug\SOAPService.pdb

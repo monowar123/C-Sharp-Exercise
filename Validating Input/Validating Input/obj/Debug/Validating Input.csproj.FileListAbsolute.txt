@@ -1,0 +1,8 @@
+J:\Programme\C#\Validating Input\Validating Input\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Validating Input\Validating Input\obj\Debug\Validating_Input.Form1.resources
+J:\Programme\C#\Validating Input\Validating Input\obj\Debug\Validating_Input.Properties.Resources.resources
+J:\Programme\C#\Validating Input\Validating Input\obj\Debug\Validating Input.csproj.GenerateResource.Cache
+J:\Programme\C#\Validating Input\Validating Input\bin\Debug\Validating Input.exe
+J:\Programme\C#\Validating Input\Validating Input\bin\Debug\Validating Input.pdb
+J:\Programme\C#\Validating Input\Validating Input\obj\Debug\Validating Input.exe
+J:\Programme\C#\Validating Input\Validating Input\obj\Debug\Validating Input.pdb

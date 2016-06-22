@@ -1,0 +1,5 @@
+J:\Programme\C#\Constructor\Constructor\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Constructor\Constructor\bin\Debug\Constructor.exe
+J:\Programme\C#\Constructor\Constructor\bin\Debug\Constructor.pdb
+J:\Programme\C#\Constructor\Constructor\obj\Debug\Constructor.exe
+J:\Programme\C#\Constructor\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,16 @@
+I:\Programme\C#\addition\addition\obj\Release\ResolveAssemblyReference.cache
+I:\Programme\C#\addition\addition\obj\Release\addition.Form1.resources
+I:\Programme\C#\addition\addition\obj\Release\addition.Properties.Resources.resources
+I:\Programme\C#\addition\addition\obj\Release\addition.csproj.GenerateResource.Cache
+I:\Programme\C#\addition\addition\bin\Release\addition.exe
+I:\Programme\C#\addition\addition\bin\Release\addition.pdb
+I:\Programme\C#\addition\addition\obj\Release\addition.exe
+I:\Programme\C#\addition\addition\obj\Release\addition.pdb
+J:\Programme\C#\addition\addition\obj\Release\ResolveAssemblyReference.cache
+J:\Programme\C#\addition\addition\obj\Release\addition.Form1.resources
+J:\Programme\C#\addition\addition\obj\Release\addition.Properties.Resources.resources
+J:\Programme\C#\addition\addition\obj\Release\addition.csproj.GenerateResource.Cache
+J:\Programme\C#\addition\addition\bin\Release\addition.exe
+J:\Programme\C#\addition\addition\bin\Release\addition.pdb
+J:\Programme\C#\addition\addition\obj\Release\addition.exe
+J:\Programme\C#\addition\addition\obj\Release\addition.pdb

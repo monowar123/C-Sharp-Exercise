@@ -1,0 +1,8 @@
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\bin\Debug\Dictionary based collection.exe
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\bin\Debug\Dictionary based collection.pdb
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\obj\Debug\Dictionary_based_collection.Form1.resources
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\obj\Debug\Dictionary_based_collection.Properties.Resources.resources
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\obj\Debug\Dictionary based collection.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\obj\Debug\Dictionary based collection.exe
+C:\Users\Monowar\Desktop\Dictionary based collection\Dictionary based collection\obj\Debug\Dictionary based collection.pdb

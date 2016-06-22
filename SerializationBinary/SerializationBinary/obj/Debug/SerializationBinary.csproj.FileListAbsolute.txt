@@ -1,0 +1,8 @@
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\bin\Debug\SerializationBinary.exe
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\bin\Debug\SerializationBinary.pdb
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\obj\Debug\SerializationBinary.Form1.resources
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\obj\Debug\SerializationBinary.Properties.Resources.resources
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\obj\Debug\SerializationBinary.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\obj\Debug\SerializationBinary.exe
+C:\Users\Monowar\Desktop\SerializationBinary\SerializationBinary\obj\Debug\SerializationBinary.pdb

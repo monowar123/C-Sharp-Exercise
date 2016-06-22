@@ -1,0 +1,8 @@
+J:\Programme\C#\Painter\Painter\bin\Debug\Painter.exe
+J:\Programme\C#\Painter\Painter\bin\Debug\Painter.pdb
+J:\Programme\C#\Painter\Painter\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Painter\Painter\obj\Debug\Painter.Form1.resources
+J:\Programme\C#\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+J:\Programme\C#\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache
+J:\Programme\C#\Painter\Painter\obj\Debug\Painter.exe
+J:\Programme\C#\Painter\Painter\obj\Debug\Painter.pdb

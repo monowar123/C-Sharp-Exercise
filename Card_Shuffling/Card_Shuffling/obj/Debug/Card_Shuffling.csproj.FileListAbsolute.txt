@@ -1,0 +1,5 @@
+J:\Programme\C#\Card_Shuffling\Card_Shuffling\bin\Debug\Card_Shuffling.exe
+J:\Programme\C#\Card_Shuffling\Card_Shuffling\bin\Debug\Card_Shuffling.pdb
+J:\Programme\C#\Card_Shuffling\Card_Shuffling\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Card_Shuffling\Card_Shuffling\obj\Debug\Card_Shuffling.exe
+J:\Programme\C#\Card_Shuffling\Card_Shuffling\obj\Debug\Card_Shuffling.pdb

@@ -1,0 +1,8 @@
+J:\Programme\C#\NumberSystem\NumberSystem\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\NumberSystem\NumberSystem\obj\Debug\NumberSystem.Form1.resources
+J:\Programme\C#\NumberSystem\NumberSystem\obj\Debug\NumberSystem.Properties.Resources.resources
+J:\Programme\C#\NumberSystem\NumberSystem\obj\Debug\NumberSystem.csproj.GenerateResource.Cache
+J:\Programme\C#\NumberSystem\NumberSystem\bin\Debug\NumberSystem.exe
+J:\Programme\C#\NumberSystem\NumberSystem\bin\Debug\NumberSystem.pdb
+J:\Programme\C#\NumberSystem\NumberSystem\obj\Debug\NumberSystem.exe
+J:\Programme\C#\NumberSystem\NumberSystem\obj\Debug\NumberSystem.pdb

@@ -1,0 +1,5 @@
+J:\Programme\C#\Compiler\Compiler\obj\Debug\Compiler.exe
+J:\Programme\C#\Compiler\Compiler\obj\Debug\Compiler.pdb
+J:\Programme\C#\Compiler\Compiler\bin\Debug\Compiler.exe
+J:\Programme\C#\Compiler\Compiler\bin\Debug\Compiler.pdb
+J:\Programme\C#\Compiler\Compiler\obj\Debug\ResolveAssemblyReference.cache

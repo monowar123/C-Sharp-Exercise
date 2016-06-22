@@ -1,0 +1,5 @@
+C:\Documents and Settings\Monowar\Desktop\RESTService\RESTService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monowar\Desktop\RESTService\RESTService\bin\RESTService.dll
+C:\Documents and Settings\Monowar\Desktop\RESTService\RESTService\bin\RESTService.pdb
+C:\Documents and Settings\Monowar\Desktop\RESTService\RESTService\obj\Debug\RESTService.dll
+C:\Documents and Settings\Monowar\Desktop\RESTService\RESTService\obj\Debug\RESTService.pdb

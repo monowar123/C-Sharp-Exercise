@@ -1,0 +1,5 @@
+J:\Programme\Socket & API\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+J:\Programme\Socket & API\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+J:\Programme\Socket & API\UDPServer\UDPServer\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Socket & API\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+J:\Programme\Socket & API\UDPServer\UDPServer\obj\Debug\UDPServer.pdb

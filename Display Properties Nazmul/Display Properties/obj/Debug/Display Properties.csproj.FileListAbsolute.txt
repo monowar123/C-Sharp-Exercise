@@ -1,0 +1,28 @@
+D:\Visual Studio Program\Display Properties\Display Properties\bin\Debug\Display Properties.exe
+D:\Visual Studio Program\Display Properties\Display Properties\bin\Debug\Display Properties.pdb
+D:\Visual Studio Program\Display Properties\Display Properties\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Program\Display Properties\Display Properties\obj\Debug\Display_Properties.Form1.resources
+D:\Visual Studio Program\Display Properties\Display Properties\obj\Debug\Display_Properties.Properties.Resources.resources
+D:\Visual Studio Program\Display Properties\Display Properties\obj\Debug\Display Properties.csproj.GenerateResource.Cache
+D:\Visual Studio Program\Display Properties\Display Properties\obj\Debug\Display Properties.exe
+D:\Visual Studio Program\Display Properties\Display Properties\obj\Debug\Display Properties.pdb
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.pdb
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\bin\Debug\Display Properties.exe
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\bin\Debug\Display Properties.pdb
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\obj\Debug\Display_Properties.Form1.resources
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\obj\Debug\Display_Properties.Properties.Resources.resources
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.csproj.GenerateResource.Cache
+D:\Visual Studio Program\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.exe
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.exe
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.pdb
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\bin\Debug\Display Properties.exe
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\bin\Debug\Display Properties.pdb
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display_Properties.Form1.resources
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display_Properties.Properties.Resources.resources
+C:\Documents and Settings\CSE\Desktop\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.csproj.GenerateResource.Cache
+J:\Academic\presentation\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.exe
+J:\Academic\presentation\ytrgsd.zip\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.pdb
+J:\Programme\C#\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.exe
+J:\Programme\C#\Display Properties Nazmul\Display Properties\obj\Debug\Display Properties.pdb

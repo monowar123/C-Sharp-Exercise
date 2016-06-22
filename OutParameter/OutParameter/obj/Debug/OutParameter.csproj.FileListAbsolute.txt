@@ -1,0 +1,10 @@
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\bin\Debug\OutParameter.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\bin\Debug\OutParameter.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\obj\Debug\OutParameter.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\OutParameter\OutParameter\obj\Debug\OutParameter.pdb
+J:\Programme\C#\OutParameter\OutParameter\obj\Debug\OutParameter.pdb
+J:\Programme\C#\OutParameter\OutParameter\bin\Debug\OutParameter.exe
+J:\Programme\C#\OutParameter\OutParameter\bin\Debug\OutParameter.pdb
+J:\Programme\C#\OutParameter\OutParameter\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\OutParameter\OutParameter\obj\Debug\OutParameter.exe

@@ -1,0 +1,8 @@
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\obj\Debug\RunAtStartUp.Form1.resources
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\obj\Debug\RunAtStartUp.Properties.Resources.resources
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\obj\Debug\RunAtStartUp.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\bin\Debug\RunAtStartUp.exe
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\bin\Debug\RunAtStartUp.pdb
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\obj\Debug\RunAtStartUp.exe
+C:\Users\Monowar\Desktop\RunAtStartUp\RunAtStartUp\obj\Debug\RunAtStartUp.pdb

@@ -1,0 +1,5 @@
+J:\Programme\C#\countstring\countstring\obj\Release\ResolveAssemblyReference.cache
+J:\Programme\C#\countstring\countstring\obj\Release\countstring.Form1.resources
+J:\Programme\C#\countstring\countstring\obj\Release\countstring.Properties.Resources.resources
+J:\Programme\C#\countstring\countstring\obj\Release\countstring.csproj.GenerateResource.Cache
+J:\Programme\C#\countstring\countstring\obj\Release\countstring.gggg.resources

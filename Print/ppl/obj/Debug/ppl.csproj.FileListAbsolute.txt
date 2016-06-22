@@ -1,0 +1,10 @@
+C:\Users\Monowar\Desktop\ppl\ppl\bin\Debug\ppl.exe
+C:\Users\Monowar\Desktop\ppl\ppl\bin\Debug\ppl.pdb
+C:\Users\Monowar\Desktop\ppl\ppl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monowar\Desktop\ppl\ppl\obj\Debug\ppl.Form1.resources
+C:\Users\Monowar\Desktop\ppl\ppl\obj\Debug\ppl.Properties.Resources.resources
+C:\Users\Monowar\Desktop\ppl\ppl\obj\Debug\ppl.csproj.GenerateResource.Cache
+C:\Users\Monowar\Desktop\ppl\ppl\obj\Debug\ppl.exe
+C:\Users\Monowar\Desktop\ppl\ppl\obj\Debug\ppl.pdb
+J:\Programme\C#\Print\ppl\obj\Debug\ppl.exe
+J:\Programme\C#\Print\ppl\obj\Debug\ppl.pdb

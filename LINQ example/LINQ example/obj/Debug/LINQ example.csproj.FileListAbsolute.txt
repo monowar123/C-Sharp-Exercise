@@ -1,0 +1,5 @@
+J:\Programme\C#\LINQ example\LINQ example\bin\Debug\LINQ example.exe
+J:\Programme\C#\LINQ example\LINQ example\bin\Debug\LINQ example.pdb
+J:\Programme\C#\LINQ example\LINQ example\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\LINQ example\LINQ example\obj\Debug\LINQ example.exe
+J:\Programme\C#\LINQ example\LINQ example\obj\Debug\LINQ example.pdb

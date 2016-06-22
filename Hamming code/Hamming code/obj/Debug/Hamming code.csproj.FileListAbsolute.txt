@@ -1,0 +1,5 @@
+J:\Programme\C#\Hamming code\Hamming code\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Hamming code\Hamming code\bin\Debug\Hamming code.exe
+J:\Programme\C#\Hamming code\Hamming code\bin\Debug\Hamming code.pdb
+J:\Programme\C#\Hamming code\Hamming code\obj\Debug\Hamming code.exe
+J:\Programme\C#\Hamming code\Hamming code\obj\Debug\Hamming code.pdb

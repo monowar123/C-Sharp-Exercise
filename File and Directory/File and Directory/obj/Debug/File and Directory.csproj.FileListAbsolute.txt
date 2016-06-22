@@ -1,0 +1,8 @@
+J:\Programme\C#\File and Directory\File and Directory\bin\Debug\File and Directory.exe
+J:\Programme\C#\File and Directory\File and Directory\bin\Debug\File and Directory.pdb
+J:\Programme\C#\File and Directory\File and Directory\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\File and Directory\File and Directory\obj\Debug\File_and_Directory.Form1.resources
+J:\Programme\C#\File and Directory\File and Directory\obj\Debug\File_and_Directory.Properties.Resources.resources
+J:\Programme\C#\File and Directory\File and Directory\obj\Debug\File and Directory.csproj.GenerateResource.Cache
+J:\Programme\C#\File and Directory\File and Directory\obj\Debug\File and Directory.exe
+J:\Programme\C#\File and Directory\File and Directory\obj\Debug\File and Directory.pdb

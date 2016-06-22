@@ -1,0 +1,8 @@
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Release\practice.Form1.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Release\practice.Properties.Resources.resources
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Release\practice.csproj.GenerateResource.Cache
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\bin\Release\practice.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\bin\Release\practice.pdb
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Release\practice.exe
+C:\Documents and Settings\monowar\My Documents\Visual Studio 2008\Projects\practice\practice\obj\Release\practice.pdb

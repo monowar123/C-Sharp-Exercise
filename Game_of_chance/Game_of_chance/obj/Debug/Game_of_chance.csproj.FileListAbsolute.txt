@@ -1,0 +1,5 @@
+J:\Programme\C#\Game_of_chance\Game_of_chance\bin\Debug\Game_of_chance.exe
+J:\Programme\C#\Game_of_chance\Game_of_chance\bin\Debug\Game_of_chance.pdb
+J:\Programme\C#\Game_of_chance\Game_of_chance\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\C#\Game_of_chance\Game_of_chance\obj\Debug\Game_of_chance.exe
+J:\Programme\C#\Game_of_chance\Game_of_chance\obj\Debug\Game_of_chance.pdb
